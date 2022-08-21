@@ -83,7 +83,7 @@ jobs:
 
 
   build20:
-    name: "Default Nixpkgs GHC (8.10), strict quality build, SDist, Optimizations, Benchmark, Haddock, Completions"
+    name: "Nixpkgs GHC (8.10), strict quality build, SDist, Optimizations, Benchmark, Haddock, Completions"
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
